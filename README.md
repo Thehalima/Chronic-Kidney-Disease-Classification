@@ -22,7 +22,7 @@ This project develops and evaluates machine learning models for binary CKD class
 
 The dataset is a curated cohort derived from NHANES. It was obtained from kaggle and specifically prepared for CKD machine learning tasks. It contains 11,933 observations and 29 variables including demographic, lifestyle, laboratory, and clinical features. 
 
-- The dataset can be from: https://www.kaggle.com/datasets/alitaqishah/ckd-nhanes-2021-2023-staged-kidney-disease
+- The dataset can be downloaded from: https://www.kaggle.com/datasets/alitaqishah/ckd-nhanes-2021-2023-staged-kidney-disease
 - The dataset should be placed in the directory and renamed as 'CKD_NHANES_2021_2023.csv'
 
 ### How to run
