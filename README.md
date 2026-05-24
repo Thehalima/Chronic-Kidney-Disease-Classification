@@ -76,8 +76,8 @@ Open the jupyter notebook and run all cells from top to bottom.
 #### Model explainability
 - SHAP analysis
 
-#### Model uncertainity and calibration
-- Evaluating model calibration to assess reliablity of probabilities predicted
+#### Model uncertainty and calibration
+- Evaluating model calibration to assess reliability of probabilities predicted
 #### Subgroup analysis
 - Evaluating model sensitivity across demographic groups
 #### Results
