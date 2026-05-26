@@ -57,6 +57,7 @@ Open the jupyter notebook and run all cells from top to bottom.
 #### Model development
 - Modelling with clinical biomarkers
 - Modelling without clinical biomarkers
+
   Models:
   - Logistic regression
   - Random forest
@@ -71,7 +72,7 @@ Open the jupyter notebook and run all cells from top to bottom.
     - Precision
     - ROC-AUC
     - F1-Score
-    - Accuracy (less emphasis)
+    - Accuracy (less emphasis was placed on this)
 
 #### Model explainability
 - SHAP analysis
